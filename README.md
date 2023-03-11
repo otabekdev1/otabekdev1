@@ -15,7 +15,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 - :computer: I'm currently working on JavaScript & React
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding
 - :rocket: Always ready to collaborate for Dev Experiments
 
