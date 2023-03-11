@@ -6,8 +6,8 @@ I am a front-end services, web applications, and systems using JavaScript and Re
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-OtabekIsomov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/abdulloh-mirzayev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@abdulloh2006-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/abdulloh2006) 
+[![Linkedin Badge](https://img.shields.io/badge/-OtabekIsomov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/OtabekIsomov-100845186/) 
+[![Telegram Badge](https://img.shields.io/badge/OtabekIsomov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/abdulloh2006) 
 [![Youtube Badge](https://img.shields.io/badge/@WebDasturlash-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@Web-Developer)
 
   
@@ -29,6 +29,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh-Mirzayev&show_icons=true&theme=gotham" alt="Abdulloh-Mirzayev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OtabekIsomov_icons=true&theme=gotham" alt="OtabekIsomov" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulloh-Mirzayev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Abdulloh-Mirzayev" /></a> </p>
