@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-OtabekIsomov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/OtabekIsomov-100845186/) 
 [![Telegram Badge](https://img.shields.io/badge/OtabekIsomov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/abdulloh2006) 
-[![Youtube Badge](https://img.shields.io/badge/@WebDasturlash-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@Web-Developer)
+
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -31,4 +31,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OtabekIsomov_icons=true&theme=gotham" alt="OtabekIsomov" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulloh-Mirzayev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Abdulloh-Mirzayev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulloh-Mirzayev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="OtabekIsomov" /></a> </p>
